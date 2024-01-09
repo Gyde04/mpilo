@@ -121,7 +121,8 @@ AI-powered medical transcription tool
             </div>
             <div className="flex items-center justify-center w-[340px]">
               <Image src={check} alt="check" className="mr-4" />
-              <p className="text-white text-lg md:text-xl">No data stored</p>
+              <p className="text-white text-lg md:text-xl">
+No data is retained</p>
             </div>
           </div>
         </div>
