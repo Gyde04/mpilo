@@ -91,9 +91,7 @@ export default function Home() {
             viewport={{ once: false }}
             className="text-gray-400 mb-6 font-light sm:w-[600px] lg:w-[900px] text-sm md:text-xl text-center"
           >
-            Mpilo is an innovative scribing assistant, specifically designed to
-            revolutionize the way healthcare professionals create SOAP notes
-            during consultations.
+           Mpilo serves as an innovative scribing assistant, meticulously crafted to transform the conventional approach healthcare professionals adopt when drafting SOAP notes during consultations.
           </motion.p>
           <Button
             size="lg"
