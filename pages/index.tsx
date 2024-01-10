@@ -13,7 +13,7 @@ import stars from "../public/stars.svg";
 import hipaa from "../public/HIPAA-square-logo 1.svg";
 import tick from "../public/correct tick.svg";
 import wrong from "../public/wrong.svg";
-import flatArrow from "../public/flatarrow.svg"
+import flatArrow from "../public/flatarrow.svg";
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState("MONTHLY");
@@ -91,7 +91,9 @@ export default function Home() {
             viewport={{ once: false }}
             className="text-gray-400 mb-6 font-light sm:w-[600px] lg:w-[900px] text-sm md:text-xl text-center"
           >
-           Mpilo serves as an innovative scribing assistant, meticulously crafted to transform the conventional approach healthcare professionals adopt when drafting SOAP notes during consultations.
+            Mpilo serves as an innovative scribing assistant, meticulously
+            crafted to transform the conventional approach healthcare
+            professionals adopt when drafting SOAP notes during consultations.
           </motion.p>
           <Button
             size="lg"
@@ -108,21 +110,20 @@ export default function Home() {
             <div className="flex items-center justify-center w-[340px]">
               <Image src={check} alt="check" className="mr-4" />
               <p className="text-white text-lg md:text-xl">
-         
-Conveniently accessible via your web browser
+                Conveniently accessible via your web browser
               </p>
             </div>
             <div className="flex items-center justify-center w-[340px]">
               <Image src={check} alt="check" className="mr-4" />
               <p className="text-white text-lg md:text-xl">
-                
-AI-powered medical transcription tool
+                AI-powered medical transcription tool
               </p>
             </div>
             <div className="flex items-center justify-center w-[340px]">
               <Image src={check} alt="check" className="mr-4" />
               <p className="text-white text-lg md:text-xl">
-No data is retained</p>
+                No data is retained
+              </p>
             </div>
           </div>
         </div>
@@ -143,7 +144,8 @@ No data is retained</p>
               viewport={{ once: false }}
               className="text-center text-2xl md:text-4xl p-20 font-semibold lg:w-[900px]"
             >
-              Your trusted partner in modern healthcare documentation.
+         
+Your reliable ally in contemporary healthcare documentation.
             </motion.h1>
           </div>
 
