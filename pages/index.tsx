@@ -164,7 +164,8 @@ Your reliable ally in contemporary healthcare documentation.
             <div className="">
               <p className="text-[#F74D4D] mb-4">Efficiency Multiplied</p>
               <h1 className="text-xl md:text-3xl mb-10 font-medium md:max-w-[500px]">
-                Streamline Your Documentation with Flawless AI SOAP Notes
+             
+Enhance your documentation process with seamless AI-generated SOAP notes.
               </h1>
               <p className="text-sm font-light mb-10 md:max-w-[600px]">
                 Reclaim Hours with Your Trusted Clinical Partner. Keep Patient
