@@ -189,7 +189,8 @@ Regain valuable hours with your trusted clinical companion. Maintain patient eng
                 <div className="flex gap-2">
                   <Image src={check2} alt="" />
                   <p className="font-light text-md">
-                    Craft Visit Summaries Effortlessly
+              
+Effortlessly create visit summaries.
                   </p>
                 </div>
                 <div className="flex gap-2">
