@@ -175,7 +175,7 @@ Regain valuable hours with your trusted clinical companion. Maintain patient eng
                 <div className="flex gap-2">
                   <Image src={check2} alt="" />
                   <p className="font-light text-md">
-                    Transcribe Your Patient&apos;s Visit Dialogue
+                  Transcribe the dialogue from your  patient&apos;s  visit.
                   </p>
                 </div>
                 <div className="flex gap-2">
