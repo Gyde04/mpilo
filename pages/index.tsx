@@ -168,8 +168,8 @@ Your reliable ally in contemporary healthcare documentation.
 Enhance your documentation process with seamless AI-generated SOAP notes.
               </h1>
               <p className="text-sm font-light mb-10 md:max-w-[600px]">
-             
-Regain valuable hours with your trusted clinical companion. Maintain patient engagement while crafting impeccable notes.
+                Reclaim Hours with Your Trusted Clinical Partner. Keep Patient
+                Engagement Intact While Crafting Impeccable Notes.
               </p>
               <div className="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-10 mt-20 md:mt-0">
                 <div className="flex gap-2">
