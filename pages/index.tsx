@@ -196,7 +196,7 @@ Effortlessly create visit summaries.
                 <div className="flex gap-2">
                   <Image src={check2} alt="" />
                   <p className="font-light text-md">
-                  Make use of confidential notes.
+Make use of confidential notes.
                   </p>
                 </div>
               </div>
