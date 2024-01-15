@@ -189,14 +189,13 @@ Regain valuable hours with your trusted clinical companion. Maintain patient eng
                 <div className="flex gap-2">
                   <Image src={check2} alt="" />
                   <p className="font-light text-md">
-              
-Effortlessly create visit summaries.
+                    Craft Visit Summaries Effortlessly
                   </p>
                 </div>
                 <div className="flex gap-2">
                   <Image src={check2} alt="" />
                   <p className="font-light text-md">
-Make use of confidential notes.
+                    Utilize Confidential Notes
                   </p>
                 </div>
               </div>
