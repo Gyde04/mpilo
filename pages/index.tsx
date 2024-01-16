@@ -144,8 +144,7 @@ export default function Home() {
               viewport={{ once: false }}
               className="text-center text-2xl md:text-4xl p-20 font-semibold lg:w-[900px]"
             >
-         
-Your reliable ally in contemporary healthcare documentation.
+              Your trusted partner in modern healthcare documentation.
             </motion.h1>
           </div>
 
@@ -164,8 +163,7 @@ Your reliable ally in contemporary healthcare documentation.
             <div className="">
               <p className="text-[#F74D4D] mb-4">Efficiency Multiplied</p>
               <h1 className="text-xl md:text-3xl mb-10 font-medium md:max-w-[500px]">
-             
-Enhance your documentation process with seamless AI-generated SOAP notes.
+                Streamline Your Documentation with Flawless AI SOAP Notes
               </h1>
               <p className="text-sm font-light mb-10 md:max-w-[600px]">
                 Reclaim Hours with Your Trusted Clinical Partner. Keep Patient
