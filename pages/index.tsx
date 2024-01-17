@@ -108,8 +108,7 @@ export default function Home() {
             <div className="flex items-center justify-center w-[340px]">
               <Image src={check} alt="check" className="mr-4" />
               <p className="text-white text-lg md:text-xl">
-         
-Conveniently accessible via your web browser
+                Easy to use in your web browser
               </p>
             </div>
             <div className="flex items-center justify-center w-[340px]">
