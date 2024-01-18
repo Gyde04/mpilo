@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from "react";
 import { NextUIProvider } from "@nextui-org/react";
 import { AppProps } from "next/app";
