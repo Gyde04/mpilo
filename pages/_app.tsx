@@ -20,12 +20,12 @@ function App({ Component, pageProps }: AppProps) {
               content="width=device-width, initial-scale=1"
             />
             <title>mpilo</title>
-            {/* <meta property="og:title" content="" />
+            <meta property="og:title" content="" />
             <meta property="og:type" content="website" />
             <meta property="og:url" content="" />
             <meta property="og:image" content="/bookmark.jpg" />
             <link rel="shortcut icon" href="/icon.svg" type="image/x-icon" />
-            <link rel="icon" href="/icon.svg" type="image/x-icon" /> */}
+            <link rel="icon" href="/icon.svg" type="image/x-icon" />
           </Head>
           <Nav />
           <Component {...pageProps} />
