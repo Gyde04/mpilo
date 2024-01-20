@@ -5,7 +5,7 @@ import logo from "../public/mpilo.svg";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Button } from "@nextui-org/react";
-import menuIcon from "../public/menuicon.svg"; // Import the menu icon image
+import menuIcon from "../public/menuicon.svg"; 
 
 export default function Nav() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
