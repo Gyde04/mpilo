@@ -2,7 +2,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import logo from "../public/mpilo2.svg";
-import { Button } from "@nextui-org/react";
 import twit from "../public/twitter.svg";
 import fb from "../public/fb.svg";
 import link from "../public/linkedin.svg";
