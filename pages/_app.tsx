@@ -1,4 +1,3 @@
-"use client"
 import React, { useState } from "react";
 import { NextUIProvider } from "@nextui-org/react";
 import { AppProps } from "next/app";
@@ -25,6 +24,7 @@ function App({ Component, pageProps }: AppProps) {
             <meta property="og:type" content="website" />
             <meta property="og:url" content="" />
             <meta property="og:image" content="/bookmark.jpg" />
+            <meta name="description" content="use client" /> {/* Added meta tag for description */}
             <link rel="shortcut icon" href="/icon.svg" type="image/x-icon" />
             <link rel="icon" href="/icon.svg" type="image/x-icon" />
           </Head>
