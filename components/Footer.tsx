@@ -1,6 +1,5 @@
 "use client"
 import Image from "next/image";
-import Link from "next/link";
 import logo from "../public/mpilo2.svg";
 import twit from "../public/twitter.svg";
 import fb from "../public/fb.svg";
