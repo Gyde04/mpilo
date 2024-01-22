@@ -16,7 +16,7 @@ import wrong from "../public/wrong.svg";
 import flatArrow from "../public/flatarrow.svg"
 
 export default function Home() {
-  const [activeTab, setActiveTab] = useState("MONTHLY");
+  const [activeTab, setActiveTab] = useState("MONTHLY"); // For activeTab
   const [scrollX, setscrollX] = useState(0); // For detecting start scroll postion
   const [scrolEnd, setscrolEnd] = useState(false); // For detecting end of scrollin
   const containerRef = useRef<any>();
