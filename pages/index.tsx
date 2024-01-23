@@ -3,7 +3,7 @@ import React, { useRef, useState } from "react";
 import { Avatar, Button, Card, CardBody } from "@nextui-org/react";
 import Image from "next/image";
 import check from "../public/check.svg";
-import { motion, useScroll } from "framer-motion";
+import { motion } from "framer-motion";
 import trust from "../public/Clip path group.svg";
 import check2 from "../public/simple-line-icons_check.svg";
 import bot from "../public/bot.svg";
