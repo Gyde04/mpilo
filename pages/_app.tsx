@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 import "../app/globals.css";
 
 function App({ Component, pageProps }: AppProps) {
-  const [isNavOpen, setIsNavOpen] = useState(false);
+  const [isNavOpen, setIsNavOpen] = useState(false); // For nav open state
 
   return (
     <NextUIProvider>
