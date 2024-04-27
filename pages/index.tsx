@@ -115,8 +115,7 @@ Conveniently accessible via your web browser
             <div className="flex items-center justify-center w-[340px]">
               <Image src={check} alt="check" className="mr-4" />
               <p className="text-white text-lg md:text-xl">
-                
-AI-powered medical transcription tool
+                AI medical scribing tool
               </p>
             </div>
             <div className="flex items-center justify-center w-[340px]">
